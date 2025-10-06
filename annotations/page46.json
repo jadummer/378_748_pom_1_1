@@ -1,0 +1,206 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://jadummer.github.io/378_748_pom_1_1/annotations/page46.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:5500/page46.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "24"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=454,168,91,55"
+  }, {
+    "id" : "http://localhost:5500/page46.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the preceding autumn received an"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=57,200,1026,103"
+  }, {
+    "id" : "http://localhost:5500/page46.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "injury on his knee. They were"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=64,306,999,74"
+  }, {
+    "id" : "http://localhost:5500/page46.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "treated successfully by mild ap"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=65,368,1015,98"
+  }, {
+    "id" : "http://localhost:5500/page46.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "plications and the general venae"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=64,462,1012,71"
+  }, {
+    "id" : "http://localhost:5500/page46.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "dies for scurvy"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=64,536,502,83"
+  }, {
+    "id" : "http://localhost:5500/page46.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The pulse did not in any case"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=128,606,953,77"
+  }, {
+    "id" : "http://localhost:5500/page46.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "show tension, it was in general"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=73,694,982,63"
+  }, {
+    "id" : "http://localhost:5500/page46.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "small weak and slow."
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=81,775,908,54"
+  }, {
+    "id" : "http://localhost:5500/page46.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The cure was almost entirely"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=181,845,826,66"
+  }, {
+    "id" : "http://localhost:5500/page46.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "trusted trusted to a vegetable"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=75,914,930,59"
+  }, {
+    "id" : "http://localhost:5500/page46.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "diet, with lemons; this never failed"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=66,973,1030,77"
+  }, {
+    "id" : "http://localhost:5500/page46.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in a few days of relieving the"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=66,1055,956,67"
+  }, {
+    "id" : "http://localhost:5500/page46.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "patient. The swelled and indura"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=73,1113,1018,72"
+  }, {
+    "id" : "http://localhost:5500/page46.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ted legs were not immediately"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=71,1192,989,108"
+  }, {
+    "id" : "http://localhost:5500/page46.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "cured; functions with flannel"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=83,1272,969,72"
+  }, {
+    "id" : "http://localhost:5500/page46.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "were applied with advantage"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=70,1343,962,87"
+  }, {
+    "id" : "http://localhost:5500/page46.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Raw potatoes grated down and"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=125,1402,960,82"
+  }, {
+    "id" : "http://localhost:5500/page46.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "made palatable with spices and"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=82,1469,996,85"
+  }, {
+    "id" : "http://localhost:5500/page46.json-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "vinegar were of eminent service"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/yypdw5drnu-mg9vfzgl#xywh=100,1535,937,69"
+  } ]
+}
