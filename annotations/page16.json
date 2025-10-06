@@ -1,0 +1,206 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://jadummer.github.io/378_748_pom_1_1/annotations/page16.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:5500/page16.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "8"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=474,168,44,51"
+  }, {
+    "id" : "http://localhost:5500/page16.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The prisoners are confined only twelve"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=40,190,1047,78"
+  }, {
+    "id" : "http://localhost:5500/page16.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "hours in the twenty four. They are"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=33,271,1019,80"
+  }, {
+    "id" : "http://localhost:5500/page16.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "employed at work through the day"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=37,350,1019,96"
+  }, {
+    "id" : "http://localhost:5500/page16.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in the open air. Their rooms are"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=31,431,1015,65"
+  }, {
+    "id" : "http://localhost:5500/page16.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "large and ventilated. If the disease"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=40,500,1048,90"
+  }, {
+    "id" : "http://localhost:5500/page16.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "was induced by a deficiency of oxy"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=34,587,1033,105"
+  }, {
+    "id" : "http://localhost:5500/page16.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "gen - it should have constantly appea"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=37,655,1049,100"
+  }, {
+    "id" : "http://localhost:5500/page16.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "red in those who were confined"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=33,733,1010,86"
+  }, {
+    "id" : "http://localhost:5500/page16.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in the dungeon, where the atmos"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=34,791,1013,85"
+  }, {
+    "id" : "http://localhost:5500/page16.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "phere is unchanged, and only suffici"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=41,864,1022,88"
+  }, {
+    "id" : "http://localhost:5500/page16.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ent to support the combustion of a"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=42,934,979,93"
+  }, {
+    "id" : "http://localhost:5500/page16.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "lighted taper. A number were con"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=47,997,970,81"
+  }, {
+    "id" : "http://localhost:5500/page16.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "fined in this place, not one of whom"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=54,1069,1001,94"
+  }, {
+    "id" : "http://localhost:5500/page16.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "had scurvy. They were chiefly va-"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=57,1144,999,107"
+  }, {
+    "id" : "http://localhost:5500/page16.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "grants who had not been a long"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=63,1223,942,115"
+  }, {
+    "id" : "http://localhost:5500/page16.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "time in Prison"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=65,1294,471,66"
+  }, {
+    "id" : "http://localhost:5500/page16.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "That Miasma had no share in the"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=121,1369,938,66"
+  }, {
+    "id" : "http://localhost:5500/page16.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "production of this complaint I"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=76,1434,929,74"
+  }, {
+    "id" : "http://localhost:5500/page16.json-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "infer from the diseases that preceded"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/xdfqjulo9u-mg9v5axh#xywh=69,1508,1008,70"
+  } ]
+}
