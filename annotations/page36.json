@@ -1,0 +1,196 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://jadummer.github.io/378_748_pom_1_1/annotations/page36.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:5500/page36.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "18"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=460,154,59,47"
+  }, {
+    "id" : "http://localhost:5500/page36.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the disease, and by persisting in their"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=61,940,1031,92"
+  }, {
+    "id" : "http://localhost:5500/page36.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "scurvy assigned by authors as cold"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=82,1183,928,84"
+  }, {
+    "id" : "http://localhost:5500/page36.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "a circumstance that I formerly mention"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=61,219,1019,73"
+  }, {
+    "id" : "http://localhost:5500/page36.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ed puts the matter beyond a doubt that"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=64,289,1018,69"
+  }, {
+    "id" : "http://localhost:5500/page36.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "we must refer the origin of the disease"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=54,363,984,66"
+  }, {
+    "id" : "http://localhost:5500/page36.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "to this cause. A liberal use of vegeta"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=60,432,1011,69"
+  }, {
+    "id" : "http://localhost:5500/page36.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "bles removed the complaint. They"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=61,499,989,71"
+  }, {
+    "id" : "http://localhost:5500/page36.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "were omitted for a reason I have"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=45,577,978,65"
+  }, {
+    "id" : "http://localhost:5500/page36.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "already mentioned. In a short time"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=46,642,1046,76"
+  }, {
+    "id" : "http://localhost:5500/page36.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the Scurvy returned- recourse was"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=54,724,984,72"
+  }, {
+    "id" : "http://localhost:5500/page36.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "again had to a vegetable diet with"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=58,798,1025,89"
+  }, {
+    "id" : "http://localhost:5500/page36.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the effect of again quickly banishing"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=57,864,1023,85"
+  }, {
+    "id" : "http://localhost:5500/page36.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the prison remained healthy"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=64,1032,854,79"
+  }, {
+    "id" : "http://localhost:5500/page36.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "I suspect that the different causes of"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=114,1119,950,83"
+  }, {
+    "id" : "http://localhost:5500/page36.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "with moisture &c act as predisposing"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=79,1255,995,93"
+  }, {
+    "id" : "http://localhost:5500/page36.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "by inducing debility, and that a"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=87,1344,939,75"
+  }, {
+    "id" : "http://localhost:5500/page36.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "want of recent vegetable aliment"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=87,1417,999,76"
+  }, {
+    "id" : "http://localhost:5500/page36.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "is alone the true remote case, or the"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/mtbzhm0lq5n-mg9vcbya#xywh=72,1483,1020,71"
+  } ]
+}
