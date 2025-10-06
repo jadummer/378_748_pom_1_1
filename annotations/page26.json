@@ -1,0 +1,206 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://jadummer.github.io/378_748_pom_1_1/annotations/page26.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:5500/page26.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "23"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=459,150,57,57"
+  }, {
+    "id" : "http://localhost:5500/page26.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and which concurring with the former"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=45,206,1001,82"
+  }, {
+    "id" : "http://localhost:5500/page26.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in progress of time seldom fails to produce"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=41,290,1047,75"
+  }, {
+    "id" : "http://localhost:5500/page26.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "it- and this is the want of fresh ve-"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=36,367,1035,69"
+  }, {
+    "id" : "http://localhost:5500/page26.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "gtables and greens, either as may be"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=47,441,994,75"
+  }, {
+    "id" : "http://localhost:5500/page26.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "supposed to counteract the bad effects"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=50,511,1014,73"
+  }, {
+    "id" : "http://localhost:5500/page26.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "of their before mentioned situation"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=43,577,1024,87"
+  }, {
+    "id" : "http://localhost:5500/page26.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "or rather and more truely to correct"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=54,651,1017,62"
+  }, {
+    "id" : "http://localhost:5500/page26.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the quality of their hard and dry food."
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=50,714,1027,77"
+  }, {
+    "id" : "http://localhost:5500/page26.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Experience indeed shows, that as greens"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=64,792,1003,72"
+  }, {
+    "id" : "http://localhost:5500/page26.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and fresh vegetables with ripe fruits"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=58,864,1013,74"
+  }, {
+    "id" : "http://localhost:5500/page26.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "are the best remedies for it, so they"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=66,933,953,88"
+  }, {
+    "id" : "http://localhost:5500/page26.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "prove the most effectual preservatives"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=60,1001,1014,70"
+  }, {
+    "id" : "http://localhost:5500/page26.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "against it, and the difficulty of obtain"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=62,1081,1033,88"
+  }, {
+    "id" : "http://localhost:5500/page26.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ing them at sea, together with a long"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=77,1157,1000,96"
+  }, {
+    "id" : "http://localhost:5500/page26.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "continuance in the moist sea air"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=59,1225,984,75"
+  }, {
+    "id" : "http://localhost:5500/page26.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "are the true cause of its so general"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=59,1298,979,67"
+  }, {
+    "id" : "http://localhost:5500/page26.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and fatal malignity on that ele"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=56,1361,1016,79"
+  }, {
+    "id" : "http://localhost:5500/page26.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ment \" This quotation shows the opi"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=43,1430,1034,84"
+  }, {
+    "id" : "http://localhost:5500/page26.json-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "nion of one whose experience in this"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/rh1pqdbgry-mg9v8wct#xywh=46,1509,998,66"
+  } ]
+}
