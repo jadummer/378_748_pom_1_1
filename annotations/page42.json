@@ -1,0 +1,196 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://jadummer.github.io/378_748_pom_1_1/annotations/page42.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:5500/page42.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "22"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=452,155,79,57"
+  }, {
+    "id" : "http://localhost:5500/page42.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Their gums soon become itchy, swell"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=102,223,959,90"
+  }, {
+    "id" : "http://localhost:5500/page42.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and bleed by the slightest friction. They"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=52,302,1024,77"
+  }, {
+    "id" : "http://localhost:5500/page42.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "are livid spongy and fungus"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=49,387,830,75"
+  }, {
+    "id" : "http://localhost:5500/page42.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The skin was not increased in"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=122,461,897,64"
+  }, {
+    "id" : "http://localhost:5500/page42.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "temperature, it felt dry and rough"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=66,533,1021,83"
+  }, {
+    "id" : "http://localhost:5500/page42.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "presenting an anserine appearance"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=72,609,1029,99"
+  }, {
+    "id" : "http://localhost:5500/page42.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "spots of a dark colour were very"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=75,688,997,88"
+  }, {
+    "id" : "http://localhost:5500/page42.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "numerous. There were different"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=72,776,1011,71"
+  }, {
+    "id" : "http://localhost:5500/page42.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "from the large blotches or eechy"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=75,837,986,77"
+  }, {
+    "id" : "http://localhost:5500/page42.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "moses that appear chiefly on"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=60,919,986,77"
+  }, {
+    "id" : "http://localhost:5500/page42.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the lower extremities"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=78,986,702,70"
+  }, {
+    "id" : "http://localhost:5500/page42.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "A number had swelled legs this"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=135,1068,949,64"
+  }, {
+    "id" : "http://localhost:5500/page42.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in some was similar to edema"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=94,1146,903,53"
+  }, {
+    "id" : "http://localhost:5500/page42.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "while in other it was so hard"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=85,1216,919,58"
+  }, {
+    "id" : "http://localhost:5500/page42.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "that it would to no pressure. The"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=73,1287,999,73"
+  }, {
+    "id" : "http://localhost:5500/page42.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "flexor muscles of the leg become"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=84,1370,972,72"
+  }, {
+    "id" : "http://localhost:5500/page42.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "contracted. Dr Lind found by"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=88,1440,911,73"
+  }, {
+    "id" : "http://localhost:5500/page42.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "dissection that this was owing"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdfqc7zhc6d-mg9ve9tm#xywh=99,1508,926,66"
+  } ]
+}
