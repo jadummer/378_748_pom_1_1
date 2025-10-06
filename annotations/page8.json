@@ -1,0 +1,226 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://jadummer.github.io/378_748_pom_1_1/annotations/page8.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:5500/page8.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "4"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=466,154,36,66"
+  }, {
+    "id" : "http://localhost:5500/page8.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "similar result. The ulceration of the"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=31,191,1040,57"
+  }, {
+    "id" : "http://localhost:5500/page8.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "gums was not attended to. It was suppo"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=29,259,1051,60"
+  }, {
+    "id" : "http://localhost:5500/page8.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "sed a casual circumstance, that had"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=32,333,1020,58"
+  }, {
+    "id" : "http://localhost:5500/page8.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "no connection with the general complaint"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=31,399,1071,70"
+  }, {
+    "id" : "http://localhost:5500/page8.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "A third person whose legs were affected"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=34,470,1054,64"
+  }, {
+    "id" : "http://localhost:5500/page8.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "with pain and tumefaction was put"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=34,542,1058,56"
+  }, {
+    "id" : "http://localhost:5500/page8.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "on the use of Calomel in form of pulv."
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=38,606,1062,66"
+  }, {
+    "id" : "http://localhost:5500/page8.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Antimoniale, and afterwards in com"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=39,682,1004,47"
+  }, {
+    "id" : "http://localhost:5500/page8.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "bination with guaiacum. This case"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=38,738,1033,66"
+  }, {
+    "id" : "http://localhost:5500/page8.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "had like to have terminated in the"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=43,794,1036,83"
+  }, {
+    "id" : "http://localhost:5500/page8.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "same way- fortunalely the Mercury"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=40,875,1023,86"
+  }, {
+    "id" : "http://localhost:5500/page8.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "was omitted before a salivation was"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=37,947,1040,61"
+  }, {
+    "id" : "http://localhost:5500/page8.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "produced. A tonic plan was next pur"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=43,1009,1046,65"
+  }, {
+    "id" : "http://localhost:5500/page8.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "sued without success. This recession"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=47,1072,1041,77"
+  }, {
+    "id" : "http://localhost:5500/page8.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "of disappointments, led to a more atten"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=45,1141,1056,66"
+  }, {
+    "id" : "http://localhost:5500/page8.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "tive examination of every symptom."
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=44,1213,1056,65"
+  }, {
+    "id" : "http://localhost:5500/page8.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "It now appeared evident that the"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=52,1284,1032,61"
+  }, {
+    "id" : "http://localhost:5500/page8.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "disease was severe. This suggested an"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=53,1354,1035,62"
+  }, {
+    "id" : "http://localhost:5500/page8.json-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "alteration in the plan of treatment"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=48,1413,1027,67"
+  }, {
+    "id" : "http://localhost:5500/page8.json-21",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the result of which was highly pleasing"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=50,1477,1049,86"
+  }, {
+    "id" : "http://localhost:5500/page8.json-22",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "as we did not lose another patient"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/6xhoq8lf8ug-mg9v21kl#xywh=52,1521,866,47"
+  } ]
+}
