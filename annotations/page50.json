@@ -1,0 +1,176 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://jadummer.github.io/378_748_pom_1_1/annotations/page50.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:5500/page50.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "26"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=453,160,99,60"
+  }, {
+    "id" : "http://localhost:5500/page50.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in releiving the pain for which"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=51,217,983,93"
+  }, {
+    "id" : "http://localhost:5500/page50.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "they were applied, and the sores"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=42,288,963,96"
+  }, {
+    "id" : "http://localhost:5500/page50.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "which they left behind were with"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=34,369,1048,88"
+  }, {
+    "id" : "http://localhost:5500/page50.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "difficultly prevented from running"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=42,445,1049,118"
+  }, {
+    "id" : "http://localhost:5500/page50.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "into Gangrene"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=48,524,441,82"
+  }, {
+    "id" : "http://localhost:5500/page50.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Lime juice which was at first procu"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=99,587,989,98"
+  }, {
+    "id" : "http://localhost:5500/page50.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "red in bottles as imported from the"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=52,688,997,66"
+  }, {
+    "id" : "http://localhost:5500/page50.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "West Indies. This was found far in"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=46,754,1054,77"
+  }, {
+    "id" : "http://localhost:5500/page50.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ferior to the fresh limes."
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=52,832,764,79"
+  }, {
+    "id" : "http://localhost:5500/page50.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Bark, elix vit, and the Nitric"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=97,920,949,76"
+  }, {
+    "id" : "http://localhost:5500/page50.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "acid had no impression on the"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=46,1009,1010,75"
+  }, {
+    "id" : "http://localhost:5500/page50.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "disease. D Lind relates a case"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=55,1071,950,81"
+  }, {
+    "id" : "http://localhost:5500/page50.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "that occurred under the use of"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=54,1168,969,92"
+  }, {
+    "id" : "http://localhost:5500/page50.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Elix. Vit. his experience convin"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=60,1243,1029,87"
+  }, {
+    "id" : "http://localhost:5500/page50.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ces him that it will not prevent"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=52,1303,1046,101"
+  }, {
+    "id" : "http://localhost:5500/page50.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "or cure Scurvy"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/avzjw5ic849-mg9vhfqy#xywh=81,1379,501,109"
+  } ]
+}
