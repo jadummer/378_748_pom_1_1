@@ -1,0 +1,196 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://jadummer.github.io/378_748_pom_1_1/annotations/page28.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:5500/page28.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "14"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=476,165,52,58"
+  }, {
+    "id" : "http://localhost:5500/page28.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "disease was very ample. Altho' he con"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=49,216,1012,77"
+  }, {
+    "id" : "http://localhost:5500/page28.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "siders cold as the most frequent cause"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=54,299,1025,83"
+  }, {
+    "id" : "http://localhost:5500/page28.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "yet a want of recent vegetable mat"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=51,359,1029,99"
+  }, {
+    "id" : "http://localhost:5500/page28.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ter will seldom fail to induce it."
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=45,433,1011,85"
+  }, {
+    "id" : "http://localhost:5500/page28.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "That a diet such as is used by the"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=96,508,900,82"
+  }, {
+    "id" : "http://localhost:5500/page28.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "prisoners will give rise to scurvy, appears"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=45,579,1043,100"
+  }, {
+    "id" : "http://localhost:5500/page28.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "from the following facts. Dr Blaine"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=42,640,979,102"
+  }, {
+    "id" : "http://localhost:5500/page28.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "seen it prevail in a prison ship where"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=44,729,1037,92"
+  }, {
+    "id" : "http://localhost:5500/page28.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the diet consisted of fresh animal food"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=46,799,1037,112"
+  }, {
+    "id" : "http://localhost:5500/page28.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and peas. Dr Lind relates the cases"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=42,880,1013,99"
+  }, {
+    "id" : "http://localhost:5500/page28.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "of two persons who lived on bread"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=46,948,1027,115"
+  }, {
+    "id" : "http://localhost:5500/page28.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "on bread, dried and salted fish and"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=39,1023,1034,112"
+  }, {
+    "id" : "http://localhost:5500/page28.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "sometimes salt beef"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=44,1092,627,88"
+  }, {
+    "id" : "http://localhost:5500/page28.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "An interesting case is published by"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=101,1172,937,115"
+  }, {
+    "id" : "http://localhost:5500/page28.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Dr Wistar in the 2 voll- of the Phila-"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=52,1242,1024,111"
+  }, {
+    "id" : "http://localhost:5500/page28.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "delphia Medical and Physical Journal."
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=49,1325,1023,90"
+  }, {
+    "id" : "http://localhost:5500/page28.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The subject of this paper had been con-"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=44,1397,1040,92"
+  }, {
+    "id" : "http://localhost:5500/page28.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "fined for some time to a Diet of"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/jdnv8c4zhw-mg9v9oy4#xywh=43,1479,982,87"
+  } ]
+}
