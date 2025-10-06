@@ -1,0 +1,226 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://jadummer.github.io/378_748_pom_1_1/annotations/page10.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:5500/page10.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "5"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=456,157,43,48"
+  }, {
+    "id" : "http://localhost:5500/page10.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The sick were immediately put on the use"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=57,190,1002,62"
+  }, {
+    "id" : "http://localhost:5500/page10.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "of a vegetable diet, and the citric acid;"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=55,252,1021,70"
+  }, {
+    "id" : "http://localhost:5500/page10.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and fresh vegetables were ordered for the"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=48,311,1016,65"
+  }, {
+    "id" : "http://localhost:5500/page10.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "prisoners generally. An immediate change"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=50,379,1043,64"
+  }, {
+    "id" : "http://localhost:5500/page10.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "now took place, the recoveries were"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=42,453,998,55"
+  }, {
+    "id" : "http://localhost:5500/page10.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "reified and no new cases occurred. As ve"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=47,521,1022,51"
+  }, {
+    "id" : "http://localhost:5500/page10.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "getation had not advanced far, it was"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=47,579,1028,56"
+  }, {
+    "id" : "http://localhost:5500/page10.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "difficult to procure sallads for the whole"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=41,645,1059,58"
+  }, {
+    "id" : "http://localhost:5500/page10.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "prison; and now that the disease had"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=44,711,1032,55"
+  }, {
+    "id" : "http://localhost:5500/page10.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ceased their use was discontinued. The"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=40,779,1040,53"
+  }, {
+    "id" : "http://localhost:5500/page10.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Scurvy in a short time returned- re"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=42,840,1027,62"
+  }, {
+    "id" : "http://localhost:5500/page10.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "course was again had to the vegetables"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=41,902,1043,74"
+  }, {
+    "id" : "http://localhost:5500/page10.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "with the effect of again vanishing the"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=41,979,1038,67"
+  }, {
+    "id" : "http://localhost:5500/page10.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "disease. This diet could now be conti"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=46,1052,1037,58"
+  }, {
+    "id" : "http://localhost:5500/page10.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "nued, and the prison remained heal"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=45,1121,1038,69"
+  }, {
+    "id" : "http://localhost:5500/page10.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "thy"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=48,1187,90,77"
+  }, {
+    "id" : "http://localhost:5500/page10.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "When disease occurs we are natural"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=112,1241,974,63"
+  }, {
+    "id" : "http://localhost:5500/page10.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ly led to investigate the cause in or-"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=64,1308,1022,67"
+  }, {
+    "id" : "http://localhost:5500/page10.json-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "der to effect a cure, and more effectiv"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=55,1387,1026,58"
+  }, {
+    "id" : "http://localhost:5500/page10.json-21",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ally prevent a return. It will be pro-"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=57,1448,1038,66"
+  }, {
+    "id" : "http://localhost:5500/page10.json-22",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "per that I should consider the different"
+    },
+    "target" : "https://example.org/elq95sydxb-mg9uukrf/canvas/x9756glh2as-mg9v2tgr#xywh=63,1503,1033,60"
+  } ]
+}
